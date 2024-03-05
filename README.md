@@ -1,13 +1,16 @@
+<h1 align="center">Pig Dice Game</h1>
 <img src="/images/Pig-Game-Screenshot.png"/>
 
-# Pig Dice Game
 
-[Live Preview](https://srichandan-09.github.io/Pig-Game-JS/)
+<h2 align="center">
+Check out the <a href="https://srichandan-09.github.io/Pig-Game-JS/" target="_blank">live Pig Dice Game here</a>.
+</h2>
 
 This is a web-based implementation of the classic dice game Pig, created using HTML, CSS, and JavaScript.
 
 
 ## Features
+
 This implementation of the Pig Dice Game includes the following features:
 
 <ul>
@@ -19,7 +22,16 @@ This implementation of the Pig Dice Game includes the following features:
   <li>The game ends and declares a winner when a player reaches a total score of 100 points.</li>
 </ul>
 
+## Built with
+
+- JavaScript
+- CSS3
+- HTML5
+- Parcel
+- NPM
+
 ## How to Play
+
 The objective of the game is to be the first player to reach a total score of 100 or more points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold" and end their turn:
 
 If the player rolls a 1, their turn ends and they receive no points for the turn.
