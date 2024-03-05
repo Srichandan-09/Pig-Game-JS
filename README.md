@@ -1,6 +1,4 @@
 <h1 align="center">Pig Dice Game</h1>
-<img src="/images/Pig-Game-Screenshot.png"/>
-
 
 <h2 align="center">
 Check out the <a href="https://srichandan-09.github.io/Pig-Game-JS/" target="_blank">live Pig Dice Game here</a>.
@@ -29,6 +27,8 @@ This implementation of the Pig Dice Game includes the following features:
 - HTML5
 - Parcel
 - NPM
+
+<img src="/images/Pig-Game-Screenshot.png"/>
 
 ## How to Play
 
