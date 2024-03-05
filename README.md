@@ -26,3 +26,35 @@ If the player rolls a 1, their turn ends and they receive no points for the turn
 If the player rolls any other number, it is added to their turn total and they can choose to either roll again or hold. If they choose to hold, their turn total is added to their score, and the turn ends.
 Players can also choose to use additional rules or variations, such as requiring a minimum score to start adding to their total, playing with two or more dice, or allowing the option to "double" or "triple" their score with certain rolls.
 
+## Installation
+
+- Clone this repo:
+
+```sh
+git clone https://github.com/Srichandan-09/Pig-Game-JS.git
+```
+
+- Install dependencies:
+
+```sh
+npm install
+```
+
+- Run the app:
+
+```sh
+npm start
+```
+
+## Author
+
+<b>👤 Srichandan</b>
+
+- LinkedIn - [@Srichandan](https://www.linkedin.com/in/srichandan09)
+- Github: [@Srichandan-09](https://github.com/Srichandan-09)
+
+Feel free to contact me with any questions or feedback!
+
+## Show your support
+
+Give a ⭐️ if you liked this project!
