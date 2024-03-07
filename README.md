@@ -1,9 +1,5 @@
 <h1 align="center">Pig Dice Game</h1>
 
-<h2 align="center">
-Check out the <a href="https://srichandan-09.github.io/Pig-Game-JS/" target="_blank">live Pig Dice Game here</a>.
-</h2>
-
 This is a web-based implementation of the classic dice game Pig, created using HTML, CSS, and JavaScript.
 
 
@@ -25,8 +21,17 @@ This implementation of the Pig Dice Game includes the following features:
 - JavaScript
 - CSS3
 - HTML5
-- Parcel
-- NPM
+
+<h2 id="demo">Live Demo</h2>
+
+<p>Check out the live Pig Dice Game here</p>
+
+**Live Preview** ➡️ [Demo](https://srichandan-09.github.io/Pig-Game-JS/)
+
+
+<h2 id="screenshots">Project Screenshot</h2>
+
+<p>Feel free to check out the screenshot of my website for a sneak peek into its captivating user interface.</p>
 
 <img src="/images/Pig-Game-Screenshot.png"/>
 
